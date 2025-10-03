@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Kenny-0h</h1>
+<h1 align="center">Hello! Kenny-0h here</h1>
 <h3 align="center">Computer Science Student at UFLA - Brasil, Lavras-MG</h3>
 
 - I’m currently working on **Gedai - Geoprocessing, Data Science and Artificial Intelligence Laboratory at UFLA**
