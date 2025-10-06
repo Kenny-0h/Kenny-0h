@@ -13,7 +13,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Kenny-0h&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-0h&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p><img align="left" src="(https://github-readme-stats.vercel.app/api?username=Kenny-0h&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="kenny-0h" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenny-0h&show_icons=true&locale=en" alt="kenny-0h" /></p>
